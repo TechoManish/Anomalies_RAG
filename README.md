@@ -1,5 +1,8 @@
 # Anomalies_RAG
 
+rag-financial-anomaly-detection
+
+
 Conversation → Embedding
              → Retrieve similar “normal” conversations
              → LLM compares current vs retrieved
