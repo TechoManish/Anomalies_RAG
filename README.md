@@ -21,5 +21,12 @@ rag-financial-anomaly-detection/
 │
 ├── requirements.txt
 ├── README.md
+
+Requirements
+sentence-transformers
+faiss-cpu
+openai
+numpy
+
 └── .gitignore
 
